@@ -7,7 +7,7 @@ global agriculture, and what is the cumulative caloric
 deficit for import-dependent populations through 2031?
 
 ## Methodology
-Physical supply balance model tracing the cascade from 
+Physical supply balance model tracing the impact from 
 energy supply disruption through fertilizer production 
 deficits to caloric shortfall and population at risk.
 
